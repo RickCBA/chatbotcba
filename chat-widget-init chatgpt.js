@@ -99,7 +99,7 @@ setTimeout(() => {
     const cannedMsgDiv = document.createElement('div');
     cannedMsgDiv.className = 'chat-message chat-message-from-bot my-canned-bot-message';
 
-    cannedMsgDiv.innerHTML = \`
+    cannedMsgDiv.innerHTML = `
       <div style="position: relative;">
         <p style="margin-bottom:14px; font-style: italic;">
           *We may store personal data and use it to contact you to support your dental needs.
@@ -115,7 +115,7 @@ setTimeout(() => {
           <button data-message="I want to ask a question" data-send="I have a question, can you help me to answer it?">I want to ask a question</button>
         </div>
       </div>
-    \`;
+    `;
 
     chatMessagesList.insertBefore(cannedMsgDiv, chatMessagesList.firstChild);
     console.log('✅ Canned message bubble added!');
