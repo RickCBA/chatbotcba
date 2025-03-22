@@ -107,7 +107,7 @@
         width: 40px;
         height: 40px;
         border-radius: 50%;
-        background: url("http://closedby.ai/wp-content/uploads/2025/03/WhatsApp-Image-2025-03-16-at-16.29.56-3-e1742139750811.jpeg")
+        background: url("https://raw.githubusercontent.com/RickCBA/chatbotcba/refs/heads/main/Ellen.jpeg")
           no-repeat center center;
         background-size: cover;
       }
@@ -154,7 +154,7 @@
         width: 220px;
         height: var(--chat--toggle--height);
         border-radius: var(--chat--toggle--border-radius);
-        background-image: url("http://closedby.ai/wp-content/uploads/2025/03/Picture_1-removebg-preview.png");
+        background-image: url("https://raw.githubusercontent.com/RickCBA/chatbotcba/refs/heads/main/Picture_1-removebg-preview.png");
         background-size: cover;
         background-repeat: no-repeat;
         border: none;
@@ -164,10 +164,10 @@
         justify-content: flex-start;
       }
       #n8n-chat-widget-2 .chat-window-wrapper .chat-window-toggle:hover {
-        background-image: url("http://closedby.ai/wp-content/uploads/2025/03/Picture_1-removebg-preview.png");
+        background-image: url("https://raw.githubusercontent.com/RickCBA/chatbotcba/refs/heads/main/Picture_1-removebg-preview.png");
       }
       #n8n-chat-widget-2 .chat-window-wrapper .chat-window-toggle:active {
-        background-image: url("http://closedby.ai/wp-content/uploads/2025/03/Picture_1-removebg-preview.png");
+        background-image: url("https://raw.githubusercontent.com/RickCBA/chatbotcba/refs/heads/main/Picture_1-removebg-preview.png");
       }
       #n8n-chat-widget-2 .chat-message-typing .chat-message-typing-body {
         margin-top: 10px;
@@ -177,7 +177,7 @@
       }
       #n8n-chat-widget-2 .chat-window-wrapper .chat-window-toggle svg:not(:root) {
         border-radius: 50%;
-        background: url("http://closedby.ai/wp-content/uploads/2025/02/one-e1739016257415.gif") no-repeat center center;
+        background: url("https://raw.githubusercontent.com/RickCBA/chatbotcba/refs/heads/main/1image.png") no-repeat center center;
         background-size: cover;
         margin-bottom: 48px; 
       }
