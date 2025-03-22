@@ -6,7 +6,7 @@ window.chatInstance = null; // Make chatInstance globally available for other sc
 
 // ✅ Create chat instance
 createChat({
-  webhookUrl: "https://closedbyrick.app.n8n.cloud/webhook/9147e53d-f8f7-4ade-8336-633759855053/chat",
+  webhookUrl: "https://closedbyrick.app.n8n.cloud/webhook/e95f6f6c-e62f-4bbc-80e5-d8dd2b8107d0/chat",
   target: "#n8n-chat-widget-2",
   mode: "window",
   showWelcomeScreen: false,
