@@ -1,5 +1,5 @@
 
-import { createChat } from "https://cdn.jsdelivr.net/gh/RickCBA/chatbotcba@main/chat.bundle.es.js";
+import { createChat } from "https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js";
 
 const sessionId = crypto.randomUUID(); // Global session ID
 window.chatInstance = null; // Make chatInstance globally available for other scripts
